@@ -2,8 +2,8 @@
 
 2. Copy this .jar file in local drive and run the below command on the command prompt which will start the server. 
 
-	java –jar inteliment-task-0.0.1-SNAPSHOT.jar
+	java â€“jar inteliment-task-0.0.1-SNAPSHOT.jar
 
 3. You can access the RESTful services using http://<hostname>:8080/counter-api/.....
 
-2. Source files are available under Source folder.
+4. Source files are available under Source folder.
